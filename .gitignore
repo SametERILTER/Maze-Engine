@@ -1,0 +1,46 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build directories
+cmake-build-debug/
+cmake-build-release/
+build/
+bin/
+obj/
+
+# Other
+.DS_Store
+Thumbs.db

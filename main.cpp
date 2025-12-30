@@ -12,7 +12,7 @@
 using namespace std;
 using namespace sf;
 
-const int ROWS = 32;
+const int ROWS = 302;
 const int COLS = 32;
 const float CELL_SIZE = 23.0f;
 
